@@ -1,4 +1,4 @@
-# SOLID principles
+# SOLID principles with java examples
 In this repo, you will find For each principle an example with the problem and solution .
 SOLID is a popular set of design principles that are used in object-oriented software development. SOLID is an acronym that stands for five key design principles:
 ## 1) S-Single responsibility principle
@@ -13,3 +13,4 @@ SOLID is a popular set of design principles that are used in object-oriented sof
 ## 5) D-Dependency Inversion Principle
 - High level modules should not depend on low level modules , both should depend on abstractions.
 - Abstractions should not depend on details , details should depend on abstractions.
+### enjoy !!
