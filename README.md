@@ -8,5 +8,8 @@ SOLID is a popular set of design principles that are used in object-oriented sof
 ## 3) L-Liskov Substitution Principle
 - Let q(x) be a property provable about objects of x of type T. Then q(y) should be provable for objects y of type S where S is a subtype of T.
 - This means that every subclass or derived class should be substitutable for their base or parent class.
-## 4) Interface Segregation Principle
+## 4) I-Interface Segregation Principle
 - A client should never be forced to implement an interface that it doesn’t use, or clients shouldn’t be forced to depend on methods they do not use.
+## 5) D-Dependency Inversion Principle
+- High level modules should not depend on low level modules , both should depend on abstractions.
+- Abstractions should not depend on details , details should depend on abstractions.
